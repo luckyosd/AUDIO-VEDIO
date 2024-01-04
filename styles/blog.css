@@ -1,0 +1,28 @@
+nav>ul>li {
+    display: inline;
+    margin-right: none;
+    font-weight: 700%;
+    font-size: larger;
+}
+
+nav li>a {
+    text-decoration: none;
+}
+
+footer {
+    text-align: center;
+    margin-top: 50px;
+    font-size: larger;
+}
+
+.goat {
+    text-align: center;
+    text-decoration: underline;
+    font-size: smaller;
+}
+
+#short {
+    padding: auto;
+    border: 10px;
+    border-color: black;
+}
